@@ -1,0 +1,27 @@
+_repo: Note-concernant-les-Aoulad-Daoud-du-Mont-Aures-Aouras_75072
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Masqueray, Émile
+    gutenberg_agent_id: '57809'
+    url: http://www.gutenberg.org/2009/agents/57809
+description: ''
+gutenberg_issued: '2025-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75072'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k996188r
+pgterms:marc905: 20241225090827masqueray
+pgterms:marc906: '1879'
+pgterms:marc907: DZ
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the Bibliothèque nationale de France/Gallica)
+publication_note: '  $aAlger :$bAdolphe Jourdan, $c1879.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Note concernant les Aoulad-Daoud du Mont Aurès (Aourâs)
+url: http://www.gutenberg.org/ebooks/75072
